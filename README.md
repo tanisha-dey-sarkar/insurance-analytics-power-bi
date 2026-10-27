@@ -57,15 +57,17 @@ The dataset contains insurance-related fields such as policy number, customer ID
 
 ## Key Insights
 
-Add key findings from your completed dashboard, such as:
+- Total premium is approximately **5.97 million**.
+- Total coverage is approximately **600 million**.
+- Total claim amount is approximately **16.9 million**.
+- Travel is the largest policy type, representing approximately **41% of policies** and **2.48 million in premium**.
+- Claim status distribution is approximately **43.5% Rejected, 33.9% Settled, and 22.6% Pending**.
+- Adults aged 25–60 account for approximately **8.8 million** in claim amount.
+- Approximately **75% of policies are Active**, using 12 October 2024 as the reference date.
 
-- Total premium, coverage, and claim amounts.
-- The policy type with the highest premium amount.
-- The distribution of Settled, Pending, and Rejected claims.
-- The age group with the highest claim amount.
-- The proportion of Active and Inactive policies.
+These findings are based on a synthetic practice dataset and should not be interpreted as actual insurance industry performance.
 
-*Replace these prompts with the actual figures from your dashboard before publishing.*
+
 
 ## Dashboard Preview
 
